@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-workflows
+uim-workflows.so
+uim-workflows.dylib
+uim-workflows.dll
+uim-workflows.a
+uim-workflows.lib
+uim-workflows-test-*
+*.exe
+*.o
+*.obj
+*.lst
